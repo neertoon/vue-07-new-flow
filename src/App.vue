@@ -2,7 +2,8 @@
   <section>
     <h2>Moje ziomy</h2>
     <ul>
-      <li></li>
+      <friend-contact></friend-contact>
+      <friend-contact></friend-contact>
     </ul>
   </section>
 </template>
